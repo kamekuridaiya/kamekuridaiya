@@ -1,1 +1,2 @@
-# daiya-app-android
+# daiya-app-android [![今すぐダウンロード](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg4Caa-1EMvQOkz2E_7IeFLuKvLc7Rno7ZZYF5WnUQaq4wkMwsVHF9S3kmVhYNG-_YyGzJMlUDGTs-DDjEEUMXqMwNvNsCsqsdem9eSoHRDhgj4_nVrVrSNVwQsDLwh7eg3DNjJorHIR8aOsalpnjxj-q-chPsQQUs8PJfc_g-_wOCaAS0/s50/noFilter.png)](https://github.com/kamekuridaiya/daiya-app-android/releases "今すぐダウンロード")
+どもおおお亀栗大也でいやああああああ！Youtuber亀栗大也の公式アプリができました！[Releases](https://github.com/kamekuridaiya/daiya-app-android/releases)からインストールしてください。
