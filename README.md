@@ -1,2 +1,3 @@
-# daiya-app-android [![Static Badge](https://img.shields.io/badge/DOWNROAD-brightgreen?style=flat&logo=Android)](https://github.com/kamekuridaiya/daiya-app-android/releases/download/%E6%AD%A3%E5%BC%8F%E7%89%883/daiya.v3-release.apk "今すぐダウンロード")
-どもおおお亀栗大也でいやああああああ！Youtuber亀栗大也の公式アプリができました！[Releases](https://github.com/kamekuridaiya/daiya-app-android/releases)で過去のバージョンを確認できます。
+# 亀栗大也 [![Static Badge](https://img.shields.io/badge/%E4%BA%80%E6%A0%97%E5%A4%A7%E4%B9%9F%E3%81%AE%E3%82%A2%E3%83%97%E3%83%AA-DOWNLOAD-brightgreen?logo=android)](https://github.com/kamekuridaiya/daiya-app-android/releases/download/%E6%AD%A3%E5%BC%8F%E7%89%883/daiya.v3-release.apk)
+どもおおお亀栗大也でいやああああああ！[![Static Badge](https://img.shields.io/badge/%E7%99%BB%E9%8C%B2-red?logo=youtube)
+](https://www.youtube.com/channel/UCRGVeIXxyXH5PktcA-hK7FQ/)、[![Static Badge](https://img.shields.io/badge/%E3%83%95%E3%82%A9%E3%83%AD%E3%83%BC-black?logo=tiktok)](https://www.tiktok.com/@daiya_2024)、[![Static Badge](https://img.shields.io/badge/%E3%83%95%E3%82%A9%E3%83%AD%E3%83%BC-purple?logo=instagram)](https://www.instagram.com/daiya_2024)よろしく！そして、リポジトリたちを拝見して、気に入ったらダウンロードお願いします！
