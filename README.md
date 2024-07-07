@@ -1,1 +1,8 @@
-説明は[亀栗大也のアプリのホームページ](https://kamekuridaiyastore.blogspot.com/p/blog-page.html)に移動しました。
+亀栗大也のandroid版アプリです。
+
+機能：アプリを開くと、メッセージが表示されます。(下の画像は正式版1をWSAで開いた時のもの)
+
+![image](https://github.com/kamekuridaiya/kamekuridaiya-app/assets/157256239/8072be98-ba6a-4f5e-8369-41ab19e90b41)
+
+上の写真をタップすると、アプリ内でホームページを開きます。「アップデートの確認」のボタンをタップすると、アプリの最新版のページを開きます。
+※[Windows版](https://github.com/kamekuridaiya/kamekuridaiya-app/blob/6f4fe0b6305cc300497402e2fabffdb08757f447/v3.exe)は2024年5月31日にサポート終了。
