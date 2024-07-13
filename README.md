@@ -1,2 +1,2 @@
-# 亀栗大也
-どもおおお亀栗大也でいやああああああ！[![Static Badge](https://img.shields.io/badge/%E7%99%BB%E9%8C%B2-red?logo=youtube)](https://www.youtube.com/@daiya2024)よろしく！
+# <img width="110" alt="noFilter" src="https://github.com/user-attachments/assets/2ac1d4d3-ba6a-4dda-a4e8-f45a2c9c714c">亀栗大也
+どもおおお亀栗大也でいやああああああ！[![Static Badge](https://img.shields.io/badge/%E7%99%BB%E9%8C%B2-red?logo=youtube)](https://www.youtube.com/@daiya2024)、[![Static Badge](https://img.shields.io/badge/%E3%83%95%E3%82%A9%E3%83%AD%E3%83%BC-black?logo=tiktok)](https://www.tiktok.com/@daiya_2024)、[![Static Badge](https://img.shields.io/badge/%E3%83%95%E3%82%A9%E3%83%AD%E3%83%BC-purple?logo=instagram)](https://www.instagram.com/daiya_2024/)よろしく！そして、ソフトのダウンロード、フォークお願いします(これらはフリーソフトです)！
