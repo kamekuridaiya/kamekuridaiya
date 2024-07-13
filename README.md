@@ -9,3 +9,5 @@
 [![Static Badge](https://img.shields.io/badge/DOWNLOAD-brightgreen?logo=Android)](https://github.com/kamekuridaiya/kamekuridaiya/releases/download/%E6%AD%A3%E5%BC%8F%E7%89%883/daiya.v3-release.apk)
 
 ※[Windows版](https://github.com/kamekuridaiya/kamekuridaiya-app/blob/6f4fe0b6305cc300497402e2fabffdb08757f447/v3.exe)は2024年5月31日にサポート終了。
+
+[![Static Badge](https://img.shields.io/badge/%E3%83%9B%E3%83%BC%E3%83%A0%E3%81%AB%E6%88%BB%E3%82%8B-blue)](https://kamekuridaiya.github.io/)
